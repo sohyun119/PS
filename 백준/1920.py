@@ -1,6 +1,8 @@
 # 2021.05.01 -다시 시간초과 error
 # 1-1 탐색과 정렬 . 1920번 [수 찾기]
 
+if error!=0:
+    error=1
 n = int(input())
 a = list(map(int, input().split()))
 m = int(input())
