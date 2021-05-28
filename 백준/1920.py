@@ -8,6 +8,8 @@ a = list(map(int, input().split()))
 m = int(input())
 b = list(map(int, input().split()))
 # 나중에 다시 풀기
+# 아래코드는 시간초과 에러 코드임
+print("")
 a.sort()
 b.sort()
 count = 0
