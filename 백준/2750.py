@@ -12,4 +12,4 @@ for i in range(n):
     b = heapq.heappop(hq)
     print(b)
     
-# 반대로 정렬해서 다시 하기
+# 반대로 정렬해서 다시 하기 - stack?
