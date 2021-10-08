@@ -19,3 +19,4 @@ elif n%6*min_piece < min_pack : # 6개이하의 낱개개수*최소 낱개가격
     price = (n//6)*min_pack + (n%6)*min_piece 
 
 print(price)
+print("다시풀어보기")
